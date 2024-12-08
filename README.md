@@ -61,3 +61,5 @@ The mod dynamically adjusts mob sizes based on their spawn biome. Each biome has
 ## 🐛 Bug Reports
 
 Found an issue? Please report it on the [GitHub Issue Tracker](https://github.com/ghostmalls/Fabric-Mob-Height/issues).
+
+[Link to mod on Modrinth](https://modrinth.com/mod/fabric-mob-heights)
