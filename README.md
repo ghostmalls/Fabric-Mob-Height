@@ -1,4 +1,4 @@
-#**I do not keep up with the versions on GitHub, for the most current version, head over to [Modrinth](https://modrinth.com/mod/fabric-mob-heights)**
+# **I do not keep up with the versions on GitHub, for the most current version, head over to [Modrinth](https://modrinth.com/mod/fabric-mob-heights)**
 
 # Fabric Mob Heights
 
