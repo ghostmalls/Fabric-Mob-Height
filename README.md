@@ -1,3 +1,5 @@
+**I do not keep up with the versions on GitHub, for the most current version, head over to Modrinth**
+
 # Fabric Mob Heights
 
 A lightweight Fabric mod that introduces subtle, realistic height differences while staying true to vanilla gameplay. Inspired by [Variable Mob Height](https://www.curseforge.com/minecraft/mc-mods/vmh), reimagined for Fabric 1.20.1. Fully customizable via Mod Menu.
